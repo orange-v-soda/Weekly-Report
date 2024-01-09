@@ -12,3 +12,4 @@
 - week4 for vacation
 ## 2024
 - [week1](2024/January/week1/week1.md)
+- [week2](2024/January/week2/week2.md) $\leftarrow$ NOW
