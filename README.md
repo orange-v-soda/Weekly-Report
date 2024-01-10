@@ -1,15 +1,15 @@
 # Weekly-Report
 ## 2023
 #### November 
-- [week1](./2023/23.11.6_23.11.12周报.pdf)
-- [week2](./2023/23.11.13_23.11.19周报.pdf)
-- [week3](./2023/23.11.20_23.11.26周报.pdf)
-- [week4](./2023/23.11.27_23.12.3周报.pdf)
+- [week1](https://github.com/orange-v-soda/Weekly-Report/blob/main/2023/23.11.6_23.11.12%E5%91%A8%E6%8A%A5.pdf)
+- [week2](https://github.com/orange-v-soda/Weekly-Report/blob/main/2023/23.11.13_23.11.19%E5%91%A8%E6%8A%A5.pdf)
+- [week3](https://github.com/orange-v-soda/Weekly-Report/blob/main/2023/23.11.20_23.11.26%E5%91%A8%E6%8A%A5.pdf)
+- [week4](https://github.com/orange-v-soda/Weekly-Report/blob/main/2023/23.11.27_23.12.3%E5%91%A8%E6%8A%A5.pdf)
 #### December
-- [week1](./2023/23.12.4_23.12.10周报.pdf)
-- [week2](./2023/23.12.11_23.12.17周报.pdf)
-- [week3](./2023/23.11.20_23.11.26周报.pdf)
+- [week1](https://github.com/orange-v-soda/Weekly-Report/blob/main/2023/23.12.4_23.12.10%E5%91%A8%E6%8A%A5.pdf)
+- [week2](https://github.com/orange-v-soda/Weekly-Report/blob/main/2023/23.12.11_23.12.17%E5%91%A8%E6%8A%A5.pdf)
+- [week3](https://github.com/orange-v-soda/Weekly-Report/blob/main/2023/23.12.18_23.12.24%E5%91%A8%E6%8A%A5.pdf)
 - week4 for vacation
 ## 2024
-- [week1](./2024/January/week1/week1.md)
-- [week2](./2024/January/week2/week2.md) $\leftarrow$ NOW
+- [week1](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/January/week1/week1.md)
+- [week2](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/January/week2/week2.md) $\leftarrow$ NOW
