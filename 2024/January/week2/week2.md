@@ -3,7 +3,13 @@
 - StableSR
   - 阅读论文【Exploiting Diffusion Prior for Real-World Image
 Super-Resolution】
+
+    [Exploiting Diffusion Prior for Real-World Image Super-Resolution](Exploiting%20Diffusion%20Prior%20for%20Real-World%20Image%20Super-Resolution.pdf)
+
   - 准备展示
+  
+    [ppt](./Exploiting%20Diffusion%20Prior%20for%20Real-World%20Image%20Super-Resolution.pptx)
+
 - StableSR部署尝试
 - 整理了一些基础知识
   
