@@ -19,3 +19,6 @@ Super-Resolution】
     [盲超分](./盲超分.pdf)
 
 ## 下周计划
+- 对diffusion的实现细节有更深的了解
+  - UNet
+- 尝试运行StableSR
