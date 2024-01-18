@@ -6,6 +6,7 @@
   - [使用torch实现的leNet5手写数字识别](./MNIST.ipynb)
 - 调研SR相关的评估方案
   - [SR的一些评估方案](./SR的一些评估方案.pdf)
-- 尝试运行StableSR
+- DDPM
+  - [DDPM数学推导](./DDPM原理推导.pdf)
 
 ## 下周计划
