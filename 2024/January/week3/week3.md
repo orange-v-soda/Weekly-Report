@@ -1,4 +1,4 @@
-# 2024.1.8~2024.1.14
+# 2024.1.15~2024.1.21
 ## 本周工作
 - 对diffusion的实现细节有更深的了解
   - [CNN](./CNN.pdf)$\rightarrow$[ResNet](./ResNet.pdf)$\rightarrow$[UNet](./UNet.pdf)
