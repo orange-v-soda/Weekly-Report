@@ -4,7 +4,9 @@
   - 阅读论文【Exploiting Diffusion Prior for Real-World Image
 Super-Resolution】
 
-    [Exploiting Diffusion Prior for Real-World Image Super-Resolution](Exploiting%20Diffusion%20Prior%20for%20Real-World%20Image%20Super-Resolution.pdf)
+    [原论文](paper.pdf)
+
+    [阅读笔记](Exploiting%20Diffusion%20Prior%20for%20Real-World%20Image%20Super-Resolution.pdf)
 
   - 准备展示
   
