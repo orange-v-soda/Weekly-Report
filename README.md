@@ -9,15 +9,15 @@
 - [week1](https://github.com/orange-v-soda/Weekly-Report/blob/main/2023/23.12.4_23.12.10%E5%91%A8%E6%8A%A5.pdf)
 - [week2](https://github.com/orange-v-soda/Weekly-Report/blob/main/2023/23.12.11_23.12.17%E5%91%A8%E6%8A%A5.pdf)
 - [week3](https://github.com/orange-v-soda/Weekly-Report/blob/main/2023/23.12.18_23.12.24%E5%91%A8%E6%8A%A5.pdf)
-- week4 **for vacation**
+- week4 $\rightarrow$ *merry christmas*
 ## 2024
 #### January
 - [week1](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/January/week1/week1.md)
 - [week2](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/January/week2/week2.md)
 - [week3](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/January/week3/week3.md) 
 - [week4](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/January/week4/week4.md)
-- [week5](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/January/week5/week5.md) $\leftarrow$ NOW
+- [week5](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/January/week5/week5.md) 
 #### February
-- week1 **happy new year**
-- week2 **happy new year**
-- [week3](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/February/week3/week3.md)
+- week1 $\rightarrow$ *happy chinese new year*
+- week2 $\rightarrow$ *happy chinese new year*
+- [week3](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/February/week3/week3.md)$\leftarrow now$
