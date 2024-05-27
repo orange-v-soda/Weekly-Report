@@ -6,6 +6,7 @@
 | $\bigcirc$ |  |  |  |  |  |  | 论文修改 | $\checkmark$ |
 |  | $\bigcirc$ | $\bigcirc$ | $\bigcirc$ |  |  |  | SeeSR阅读 | $\checkmark$ |
 |  | $\bigcirc$ | $\bigcirc$ | $\bigcirc$ |  |  |  | SeeSR读代码 | $\checkmark$ |
+|  | | | | $\bigcirc$ | $\bigcirc$ |  | 专利修改 | $\checkmark$ |
 |  |  |  |  | $\bigcirc$ | $\bigcirc$ | $\bigcirc$ | 展示准备 | $\checkmark$ |
 ## 相关文件
 - [组会ppt](5.27组会.pptx)
