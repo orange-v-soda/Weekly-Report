@@ -3,9 +3,12 @@
 
 | 6.17 | 6.18 | 6.19 | 6.20 | 6.21| 6.22 | 6.23 | 任务名 | 完成情况 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :---: | :-----: |
-| $\bigcirc$ | $\bigcirc$ | $\bigcirc$ | $\bigcirc$ |  |  |  | 汇报ppt准备 | $\checkmark$ |
-
+| $\bigcirc$ | $\bigcirc$ |  |  |  |  | | vivo推进实验 | $\checkmark$ |
+| $\bigcirc$ | $\bigcirc$ | $\bigcirc$ | $\bigcirc$ |  |  |  | vivo项目汇报 | $\checkmark$ |
+|  |  |  |  | $\bigcirc$ | $\bigcirc$ | $\bigcirc$ | 毕业事宜 | $\checkmark$ |
 ## 相关文件
 
 
 ## 下周计划
+- 调研UHD（超大图像超分）领域的相关情况
+- 阅读一篇论文
