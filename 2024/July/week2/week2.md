@@ -17,3 +17,5 @@
 地址：https://arxiv.org/pdf/2402.19387
 
 github：https://github.com/lbc12345/SeD
+
+笔记：[SeD](SeD.pdf)
