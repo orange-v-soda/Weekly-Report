@@ -16,3 +16,5 @@
 地址：https://arxiv.org/abs/2403.01598
 
 github：https://github.com/Kiteretsu77/APISR
+
+笔记：[APISR](APISR.pdf)

@@ -8,4 +8,10 @@
 |  |  |  |  | $\bigcirc$ | $\bigcirc$ | $\bigcirc$ | 读论文 | $\times$ |
 
 ## 详细介绍
+论文：SkipDiff
 
+状态：2024 AAAI
+
+地址：https://ojs.aaai.org/index.php/AAAI/article/view/28195
+
+笔记：[SkipDiff](SkipDiff.pdf)
