@@ -5,7 +5,7 @@
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :---: | :-----: |
 | $\bigcirc$ | $\bigcirc$ |  |  |  |  |  | 研讨准备 | $\checkmark$ |
 |  |  |  | $\bigcirc$ |  |  |  | 科二练车 | $\checkmark$ |
-|  |  |  |  | $\bigcirc$ | $\bigcirc$ | $\bigcirc$ | 读论文 | $\times$ |
+|  |  |  |  | $\bigcirc$ | $\bigcirc$ | $\bigcirc$ | 读论文 | $\checkmark$ |
 
 ## 详细介绍
 论文：SkipDiff
