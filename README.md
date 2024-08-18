@@ -49,3 +49,6 @@
 - [week3](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/July/week3/week3.md)
 - [week4](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/July/week4/week4.md)
 - [week5](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/July/week5/week5.md)
+#### August
+- [week1](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/August/week1/week1.md)
+- [week2](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/August/week2/week2.md)
