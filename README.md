@@ -52,3 +52,5 @@
 #### August
 - [week1](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/August/week1/week1.md)
 - [week2](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/August/week2/week2.md)
+- week3 $\rightarrow$ *for vacation*
+- [week4](https://github.com/orange-v-soda/Weekly-Report/blob/main/2024/August/week4/week4.md)
